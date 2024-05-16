@@ -10,7 +10,7 @@ body {
 
 body {
 	font-size:18px;
-	background:url(imagenes/fondo.jpg);
+	background:url(fondo.jpg);
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-position:center;
